@@ -15,5 +15,3 @@ logging.basicConfig(
 
 
 )
-
-logging.info("This is a test log entry.")
